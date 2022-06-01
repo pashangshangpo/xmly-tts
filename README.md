@@ -10,7 +10,7 @@
 
 ## 软件界面
 
-<img width="632" alt="image" src="https://user-images.githubusercontent.com/28686832/171317070-14aa7ccb-ba89-4735-a0da-e5f9fefca99a.png">
+<img width="624" alt="image" src="https://user-images.githubusercontent.com/28686832/171318355-9bf8b744-84d5-4a32-9c1b-8c8a1422e748.png">
 
 ![image](https://user-images.githubusercontent.com/28686832/171317153-e7351045-d018-4bad-ab9e-69a950adba4e.png)
 
