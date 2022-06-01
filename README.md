@@ -32,3 +32,6 @@
 - [蓝奏云-文本转音频mac版](https://jscs.lanzouw.com/ixo2Z05q05sf) 提取码: 5f1t
 - [百度云-文本转音频](https://pan.baidu.com/s/1ny90EnQtKjZ0gU_Uw6ZQvA?pwd=9bt9)
 
+## 常见问题
+
+- 部分windows系统无法正常完成软件安装，如无法安装，请先下载 https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8b8fc84f-b107-44f8-a1d0-db9e8fc1921d/MicrosoftEdgeWebView2RuntimeInstallerX64.exe
