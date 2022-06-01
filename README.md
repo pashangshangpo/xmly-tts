@@ -4,6 +4,13 @@
 
 <img width="624" alt="image" src="https://user-images.githubusercontent.com/28686832/171317095-f7af4794-54d2-4f1b-a9a0-b19d8d7899dc.png">
 
+## 声音试听
+
+- [晓秋.mp3.zip](https://github.com/pashangshangpo/xmly-tts/files/8810739/mp3.zip)
+- [云希.mp3.zip](https://github.com/pashangshangpo/xmly-tts/files/8810741/mp3.zip)
+- [云杨.mp3.zip](https://github.com/pashangshangpo/xmly-tts/files/8810743/mp3.zip)
+- [云野.mp3.zip](https://github.com/pashangshangpo/xmly-tts/files/8810744/mp3.zip)
+
 ## 文字转语音，最像人类声音的语音合成服务
 
 文字转语音是现在目前最火，或者最懒的配音方式。对于那些不想使用自己声音，或者不会录音，或者懒于配音的朋友，使用各种文字转语音软件是最佳的选择。
@@ -31,13 +38,6 @@
 - [蓝奏云-文本转音频windows版](https://jscs.lanzouw.com/ieFWK05q05wj)
 - [蓝奏云-文本转音频mac版](https://jscs.lanzouw.com/ixo2Z05q05sf) 提取码: 5f1t
 - [百度云-文本转音频](https://pan.baidu.com/s/1ny90EnQtKjZ0gU_Uw6ZQvA?pwd=9bt9)
-
-## 声音试听
-
-[晓秋.mp3.zip](https://github.com/pashangshangpo/xmly-tts/files/8810739/mp3.zip)
-[云希.mp3.zip](https://github.com/pashangshangpo/xmly-tts/files/8810741/mp3.zip)
-[云杨.mp3.zip](https://github.com/pashangshangpo/xmly-tts/files/8810743/mp3.zip)
-[云野.mp3.zip](https://github.com/pashangshangpo/xmly-tts/files/8810744/mp3.zip)
 
 ## 常见问题
 
