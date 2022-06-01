@@ -32,6 +32,13 @@
 - [蓝奏云-文本转音频mac版](https://jscs.lanzouw.com/ixo2Z05q05sf) 提取码: 5f1t
 - [百度云-文本转音频](https://pan.baidu.com/s/1ny90EnQtKjZ0gU_Uw6ZQvA?pwd=9bt9)
 
+## 声音试听
+
+[晓秋.mp3.zip](https://github.com/pashangshangpo/xmly-tts/files/8810739/mp3.zip)
+[云希.mp3.zip](https://github.com/pashangshangpo/xmly-tts/files/8810741/mp3.zip)
+[云杨.mp3.zip](https://github.com/pashangshangpo/xmly-tts/files/8810743/mp3.zip)
+[云野.mp3.zip](https://github.com/pashangshangpo/xmly-tts/files/8810744/mp3.zip)
+
 ## 常见问题
 
 - 小部分 windows 系统无法正常完成软件安装，如无法安装，请先下载 https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8b8fc84f-b107-44f8-a1d0-db9e8fc1921d/MicrosoftEdgeWebView2RuntimeInstallerX64.exe
