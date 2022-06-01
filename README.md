@@ -14,6 +14,9 @@
 
 ![image](https://user-images.githubusercontent.com/28686832/171317153-e7351045-d018-4bad-ab9e-69a950adba4e.png)
 
+![image](https://user-images.githubusercontent.com/28686832/171317556-9803a6d5-e688-45a8-ba4a-2777ffe777b5.png)
+
+
 ## 软件功能
 
 - 多种发音选择
@@ -24,7 +27,7 @@
 
 ## 软件下载
 
-[奶牛快传-文本转音频](https://cowtransfer.com/s/644dcc27967e44) 提取码: 43xoyp
-[蓝奏云-文本转音频windows版](https://jscs.lanzouw.com/ieFWK05q05wj)
-[蓝奏云-文本转音频mac版](https://jscs.lanzouw.com/ixo2Z05q05sf) 提取码: 5f1t
-[百度云-文本转音频](链接: https://pan.baidu.com/s/1ny90EnQtKjZ0gU_Uw6ZQvA?pwd=9bt9)
+- [奶牛快传-文本转音频](https://cowtransfer.com/s/644dcc27967e44) 提取码: 43xoyp
+- [蓝奏云-文本转音频windows版](https://jscs.lanzouw.com/ieFWK05q05wj)
+- [蓝奏云-文本转音频mac版](https://jscs.lanzouw.com/ixo2Z05q05sf) 提取码: 5f1t
+- [百度云-文本转音频](链接: https://pan.baidu.com/s/1ny90EnQtKjZ0gU_Uw6ZQvA?pwd=9bt9)
