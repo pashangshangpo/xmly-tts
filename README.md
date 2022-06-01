@@ -2,7 +2,7 @@
 
 微软azure文本转语音 音频下载，喜马拉雅文本转音频，中文文本转语音可视化应用程序。
 
-![image](https://user-images.githubusercontent.com/28686832/171317095-f7af4794-54d2-4f1b-a9a0-b19d8d7899dc.png)
+<img width="624" alt="image" src="https://user-images.githubusercontent.com/28686832/171317095-f7af4794-54d2-4f1b-a9a0-b19d8d7899dc.png">
 
 ## 文字转语音，最像人类声音的语音合成服务
 
@@ -12,9 +12,9 @@
 
 <img width="624" alt="image" src="https://user-images.githubusercontent.com/28686832/171318355-9bf8b744-84d5-4a32-9c1b-8c8a1422e748.png">
 
-![image](https://user-images.githubusercontent.com/28686832/171317153-e7351045-d018-4bad-ab9e-69a950adba4e.png)
+<img width="624" alt="image" src="https://user-images.githubusercontent.com/28686832/171317153-e7351045-d018-4bad-ab9e-69a950adba4e.png">
 
-![image](https://user-images.githubusercontent.com/28686832/171317556-9803a6d5-e688-45a8-ba4a-2777ffe777b5.png)
+<img width="624" alt="image" src="https://user-images.githubusercontent.com/28686832/171317556-9803a6d5-e688-45a8-ba4a-2777ffe777b5.png">
 
 
 ## 软件功能
