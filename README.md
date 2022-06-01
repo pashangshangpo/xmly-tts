@@ -27,7 +27,8 @@
 
 ## 软件下载
 
-- [奶牛快传-文本转音频](https://cowtransfer.com/s/644dcc27967e44) 提取码: 43xoyp
-- [蓝奏云-文本转音频windows版](https://jscs.lanzouw.com/ieFWK05q05wj)
-- [蓝奏云-文本转音频mac版](https://jscs.lanzouw.com/ixo2Z05q05sf) 提取码: 5f1t
-- [百度云-文本转音频](链接: https://pan.baidu.com/s/1ny90EnQtKjZ0gU_Uw6ZQvA?pwd=9bt9)
+- [奶牛快传文本转音频](https://cowtransfer.com/s/644dcc27967e44) 提取码: 43xoyp
+- [蓝奏云文本转音频windows版](https://jscs.lanzouw.com/ieFWK05q05wj)
+- [蓝奏云文本转音频mac版](https://jscs.lanzouw.com/ixo2Z05q05sf) 提取码: 5f1t
+- [百度云文本转音频](链接: https://pan.baidu.com/s/1ny90EnQtKjZ0gU_Uw6ZQvA?pwd=9bt9)
+
