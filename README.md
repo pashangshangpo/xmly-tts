@@ -41,5 +41,5 @@
 
 ## 常见问题
 
-- 小部分 windows 系统无法正常完成软件安装，如无法安装，请先下载webview2后再进行安装，https://developer.microsoft.com/en-us/microsoft-edge/webview2
+- windows 系统如无法正常完成软件安装，请先下载webview2后再进行安装，https://developer.microsoft.com/en-us/microsoft-edge/webview2
 - 如在Windows系统上无法正常使用，请尝试使用管理员权限运行或安装到非C盘目录下。
